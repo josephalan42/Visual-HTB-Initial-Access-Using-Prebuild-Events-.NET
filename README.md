@@ -4,7 +4,9 @@ Note: Don't use the source code for malicious purposes
 
 Step 1 - Move all the files including the obj folder out of the Visual folder and place it in Visual-HTB-Initial-Access-Using-Prebuild-Events-.NET <br>
 
-Step 2 - This untrusted .NET project will execute a pre-buid event from a .bat file<br>
+Step 2 - This untrusted .NET project will execute a pre-buid event from a .bat file. Look into .csproj file to modify the event if necessary<br>
+Link - https://learn.microsoft.com/en-us/visualstudio/ide/how-to-specify-build-events-csharp?view=vs-2022 <br>
+![image](https://github.com/josephalan42/Visual-HTB-Initial-Access-Using-Prebuild-Events-.NET/assets/49631504/80f3bab4-bb12-4b53-a65c-5a3d1b54e61e)  <br>
 
 Step 3 - The .bat file contains a base64 encoded reverse shell payload  <br>
 
