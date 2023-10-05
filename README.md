@@ -20,7 +20,7 @@ Link - https://theartofmachinery.com/2016/07/02/git_over_http.html  <br>
 
 Step 5 - Start listening on the local machine while the target machine starts prcoessing the project  <br>
 
-Note - Make sure to commit any changes made like for example changing IP address or the reverse shell payload  <br>
+Note - Make sure to commit any changes made, for example changing IP address or the reverse shell payload  <br>
 
 Goodluck Capture The Flag!!!<br>
 <br>
