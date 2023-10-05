@@ -2,7 +2,7 @@
 Used For HTB Visual - Initial Access Using Pre-build events in .NET 6.0
 Note: Don't use the source code for malicious purposes
 
-Step 1 - Move all the files including the obj folder out of the Visual folder and place it in Visual-HTB-Initial-Access-Using-Prebuild-Events-.NET <br>
+Step 1 - Move all the files including the obj directory out of the Visual directory and place it in Visual-HTB-Initial-Access-Using-Prebuild-Events-.NET <br>
 
 Step 2 - This untrusted .NET project will execute a pre-buid event from a .bat file. Look into .csproj file to modify the event if necessary<br>
 
