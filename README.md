@@ -1,5 +1,5 @@
 # Visual-CS-Rev-tmp
-Used For HTB Visual - Initial Access Using Pre-build events in dotnet 6.0
+Used For HTB Visual - Initial Access Using Pre-build events in .NET 6.0
 Note: Don't use the source code for malicious purposes
 
 Step 1 - Move all the files including the obj folder out of the Visual folder and place it in Visual-HTB-Initial-Access-Using-Prebuild-Events-.NET <br>
